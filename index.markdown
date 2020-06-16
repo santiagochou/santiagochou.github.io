@@ -7,3 +7,4 @@ title: "Home"
 ---
 
 ## 这里可以填写文章目录说明
+[Some Link]({% post_url 2020-06-16-linux-accelerate-the-commandline %})
