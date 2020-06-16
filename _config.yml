@@ -39,8 +39,8 @@ copyright: "Santiago"
 # title-logo is new field that, when used, displays a logo
 # instead of custom text. Ideally, image is 50px high and takes up
 # minimal horizontal space. Tested with a new root "images" folder e.g.:
-# title-logo: /images/my-logo.png (or JPG, etc.)
-title-logo: /images/title-logo.png
+# title-logo: /images/my-logo.png (or JPG, etc.) Commit next line if needed.
+# title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is now a regular theme.
