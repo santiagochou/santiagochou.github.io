@@ -3,8 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Home"
 ---
 
-# Index
-
-# 这里可以测试一下
+## 这里可以填写文章目录说明

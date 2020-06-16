@@ -7,6 +7,4 @@ title: "Study"
 catagory: study
 ---
 
-# Index
-
-# 这里可以测试一下
+## 这里可以填写文章目录说明
