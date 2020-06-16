@@ -6,3 +6,7 @@ layout: home-tech
 title: "Tech"
 catagory: tech
 ---
+
+# Index
+
+# 这里可以测试一下
