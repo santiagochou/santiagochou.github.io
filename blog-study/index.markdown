@@ -9,4 +9,4 @@ catagory: study
 ---
 
 # 文章列表：
-[Study Online]({% post_url 2020-06-16-study-online.markdown %})
+[Study Online]({% post_url 2020-06-16-study-online %})
