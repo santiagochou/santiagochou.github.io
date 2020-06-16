@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Santiago Chou
+title: La Casa de Santiago
 email: xfzhou2018@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wellcome to my blog!
@@ -27,8 +27,12 @@ url: "https://santiagochou.github.io/" # the base hostname & protocol for your s
 twitter_username: shawncheeer
 github_username:  santiagochou
 
+# Fields minima uses, but are not defaulted with jekyll new command.
+# Author is the default for posts, the Atom feed, and is used in the footer
+author: Santiago Chou
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+#theme: minima
 plugins:
   - jekyll-feed
 
