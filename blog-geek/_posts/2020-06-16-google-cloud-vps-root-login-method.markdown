@@ -23,5 +23,6 @@ PasswordAuthentication yes //默认为no，改为yes开启密码登陆
 /etc/init.d/ssh restart
 
 blog-geek/_posts/2020-06-16-linux-accelerate-the-commandline.markdown
+jjjj
 [Some Link]({% post_url 2020-06-16-linux-accelerate-the-commandline %})
 
