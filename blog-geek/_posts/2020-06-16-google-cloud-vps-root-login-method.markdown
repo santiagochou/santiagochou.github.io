@@ -5,7 +5,7 @@ date:   2020-06-16 19:08:24
 category: geek
 ---
 
-#### 1、进入root账户。然后passwd root设置root密码。
+#### 1、进入root账户, 然后passwd root设置root密码。
 
 #### 2、修改SSH配置文件/etc/ssh/sshd_config
 
