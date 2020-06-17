@@ -15,8 +15,9 @@ category: study
 #### 正在学习过程中：
 
 * 概率论与数理统计 <br/>
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/ <br/>
-  https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
+  * 每天学三课：大概要9个学习日
+  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ 6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/
+  * https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
 * 编译原理 0%
 
 #### 微积分：
@@ -53,3 +54,18 @@ https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 
 * MIT的人工智能 <br/>
 https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
+
+#### 未来的学习方向：
+
+* 1、数学
+* 2、语音、图像
+* 3、计算机
+* 4、GPU
+* 5、英语、西班牙语
+* 6、xgboost
+
+#### 优秀博客：
+
+* https://blog.csdn.net/vsooda/
+* http://vsooda.github.io/
