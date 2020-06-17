@@ -15,6 +15,7 @@ category: study
 #### 正在学习过程中：
 
 * 概率论与数理统计 <br/>
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/ <br/>
   https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
 * 编译原理 0%
 
