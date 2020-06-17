@@ -33,21 +33,21 @@ category: study
 
 #### Probabilistic Systems Analysis and Applied Probability
 
-* 下面这个是分开成300个视频的网络课程 <\br>
+* 下面这个是分开成300个视频的网络课程 <br\>
 https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
 
 
 #### 数据库：
 
-* 卡内基.梅陇 <\br>
+* 卡内基.梅陇 <br\>
 https://www.youtube.com/playlist?list=PLroEs25KGvwzmvIxYHRhoGTz9w8LeXek0
 
-* 斯坦福 <\br> 
+* 斯坦福 <br\> 
 https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7
 
 
 
 #### 模式识别：
 
-* MIT的人工智能 <\br>
+* MIT的人工智能 <br\>
 https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
