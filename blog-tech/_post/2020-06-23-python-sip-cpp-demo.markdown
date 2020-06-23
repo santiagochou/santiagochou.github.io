@@ -2,12 +2,12 @@
 layout: post
 title:  "Python SIP CPP Demo"
 date:   2020-06-23 15:49:24
-category: geek
+category: tech
 ---
 
 
 * References:
-  ** [https://blog.csdn.net/sunny2038/article/details/7237630](https://blog.csdn.net/sunny2038/article/details/7237630)
+  * [https://blog.csdn.net/sunny2038/article/details/7237630](https://blog.csdn.net/sunny2038/article/details/7237630)
 
 #### Install SIP
 
@@ -82,7 +82,7 @@ python3 configure.py
 ```
 * Note: the `Makefile` should be modified for adapt `dynamic` and `static` library
 * for `static` library, we should set `LIBS` variable to full name of the library.
-* for `dynamic` library, we shoud add `-L .` at the front of the `-ladd`
+* for `dynamic` library, we shoud add `-L .` at the front of the `-ladd` to `LIBS` variable
 
 #### Compile and test
 
