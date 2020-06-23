@@ -81,8 +81,8 @@ makefile.extra_libs = ["add"]
 python3 configure.py
 ```
 * Note: the `Makefile` should be modified for adapt `dynamic` and `static` library
-* for `static` library, we should set `LIBS` variable to full name of the library.
-* for `dynamic` library, we shoud add `-L .` at the front of the `-ladd` to `LIBS` variable
+* For `static` library, we should set `LIBS` variable to full name of the library.
+* For `dynamic` library, we shoud add `-L .` at the front of the `-ladd` to `LIBS` variable
 
 #### Compile and test
 
