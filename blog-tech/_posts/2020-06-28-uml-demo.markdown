@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "UML Demo"
+date:   2020-06-28 17:27:24
+category: tech
+---
+/home/santiagochou/Playground/Github/santiagochou.github.io/assets/images
+<script src="https://gist.github.com/santiagochou/e6135dfbe008444d54506558fc55a336.js"></script>
+
+* References:
+  * [http://c.biancheng.net/view/1405.html](http://c.biancheng.net/view/1405.html)
+
+#### UML Demo
+* This demo shows a clase graph designed by using UML softwere UMLet and some important conponents of it.
+* See <script src="https://gist.github.com/santiagochou/e6135dfbe008444d54506558fc55a336.js"></script>
+* Image followed by this line. ![uml-cls](./assets/images/uml_cls.avg) 
