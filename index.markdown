@@ -8,4 +8,7 @@ title: "Home"
 ---
 
 # 该页面用于做一些实验，或者临时笔记。
-[链接测试]({% post_url 2020-06-16-linux-accelerate-the-commandline %})
+
+## 目前正在学习 -- 编译原理
+* https://github.com/DoctorWkt/acwj
+* 看到  Part 0: Introduction
