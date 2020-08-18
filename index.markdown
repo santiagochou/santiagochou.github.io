@@ -12,6 +12,3 @@ title: "Home"
 ## 目前正在学习 -- 编译原理
 * https://github.com/DoctorWkt/acwj
 * 看到  https://github.com/DoctorWkt/acwj/tree/master/02_Parser        Don't worry, I'll be here when you get back.
-
-https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff      which we’re already pretty familiar with
-https://medium.com/basecs/grammatically-rooting-oneself-with-parse-trees-ec9daeda7dad      Parsing for the meaning of parsing
