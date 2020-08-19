@@ -11,4 +11,4 @@ title: "Home"
 
 ## 目前正在学习 -- 编译原理
 * https://github.com/DoctorWkt/acwj
-* 看到  https://github.com/DoctorWkt/acwj/tree/master/02_Parser        Don't worry, I'll be here when you get back.
+* 看到 Part 5: Statements   https://github.com/DoctorWkt/acwj/blob/master/05_Statements/Readme.md
