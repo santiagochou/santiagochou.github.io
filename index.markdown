@@ -11,4 +11,4 @@ title: "Home"
 
 ## 目前正在学习 -- 编译原理
 * https://github.com/DoctorWkt/acwj
-* 看到 Part 8: If Statements  https://github.com/DoctorWkt/acwj/tree/master/08_If_Statements
+* 看到 Part 11  https://github.com/DoctorWkt/acwj/blob/master/11_Functions_pt1/Readme.md
