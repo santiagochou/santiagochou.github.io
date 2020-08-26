@@ -11,4 +11,6 @@ title: "Home"
 
 ## 目前正在学习 -- 编译原理
 * https://github.com/DoctorWkt/acwj
-* 看到 Part 11  https://github.com/DoctorWkt/acwj/blob/master/11_Functions_pt1/Readme.md
+* Part 17: Better Type Checking and Pointer Offsets
+* ()[https://github.com/DoctorWkt/acwj/blob/master/17_Scaling_Offsets/Readme.md#a-replacement-for-type_compatible]
+* 读到 Using the New modify_type() API
