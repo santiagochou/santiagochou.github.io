@@ -8,6 +8,6 @@ title: "Study"
 catagory: study
 ---
 
-### 文章列表：
+### Article List:
 [Study Online]({% post_url 2020-06-16-study-online %}) <br/>
 [Recent Learn Stuff]({% post_url 2020-06-17-recent-learn-stuff %}) <br/>
