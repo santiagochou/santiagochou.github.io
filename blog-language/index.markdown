@@ -12,4 +12,4 @@ catagory: language
 
 * Date: 2020-09-04
   
-> In order to reflect normal usage, addition, subtraction, multiplication, and division operators are usually left-associative,[1][2][3][4][5] while for an exponentiation operator (if present)[6] and Knuth's up-arrow operators there is **no general agreement**.
+> [In order to reflect normal usage, addition, subtraction, multiplication, and division operators are usually left-associative,[1][2][3][4][5] while for an exponentiation operator (if present)[6] and Knuth's up-arrow operators there is **no general agreement**](https://en.wikipedia.org/wiki/Operator_associativity).
