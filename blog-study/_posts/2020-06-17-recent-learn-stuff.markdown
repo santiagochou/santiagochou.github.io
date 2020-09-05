@@ -12,14 +12,6 @@ category: study
 * 计算机网络  完成
 * 线性代数    完成
 
-#### 正在学习过程中：
-
-* 概率论与数理统计 <br/>
-  * 每天学三课：大概要9个学习日
-  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ 6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/lecture-1/
-  * https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
-* 编译原理 0%
-
 #### 微积分：
 
 * https://www.youtube.com/playlist?list=PL3B08AE665AB9002A
