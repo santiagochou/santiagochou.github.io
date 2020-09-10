@@ -10,6 +10,14 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-09-09
+
+> [Stuff or Staff](https://wikidiff.com/stuff/staff)
+
+* Date: 2020-09-09
+
+> [Trial and error is a fundamental method of problem-solving.[1] It is characterized by repeated, varied attempts which are continued until success,[2] or until the practicer stops trying.](https://en.wikipedia.org/wiki/Trial_and_error)
+
 * Date: 2020-09-04
   
 > [In order to reflect normal usage, addition, subtraction, multiplication, and division operators are usually left-associative,[1][2][3][4][5] while for an exponentiation operator (if present)[6] and Knuth's up-arrow operators there is **no general agreement**](https://en.wikipedia.org/wiki/Operator_associativity).
