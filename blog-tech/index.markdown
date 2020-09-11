@@ -9,5 +9,10 @@ catagory: tech
 ---
 
 ### Article List:
-[Python SIP Cpp Demo]({% post_url 2020-06-23-python-sip-cpp-demo %}) <br/>
+
+[The position of Macros of the Visual Studio]({% 2020-09-11-the-position-of-macros-of-the-visual-studio %}) <br/>
+
 [UML Demo]({% post_url 2020-06-28-uml-demo %}) <br/>
+
+[Python SIP Cpp Demo]({% post_url 2020-06-23-python-sip-cpp-demo %}) <br/>
+
