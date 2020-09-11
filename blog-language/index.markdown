@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-09-11
+  
+> [When you write an application, you create a single CWinApp-derived object. At times, you may want to get information about this object from outside the CWinApp-derived object. Or you may need access to other global "manager" objects.](https://docs.microsoft.com/en-us/cpp/mfc/reference/application-information-and-management?view=vs-2019)
+
 * Date: 2020-09-09
 
 > [Stuff or Staff](https://wikidiff.com/stuff/staff)
