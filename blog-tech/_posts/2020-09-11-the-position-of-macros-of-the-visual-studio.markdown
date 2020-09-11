@@ -5,6 +5,6 @@ date:   2020-09-11 14:03:24
 category: tech
 ---
 
-### It showing like follow image.
+### It showing at following image
 
 ![The position of Macros of the Visual Studio](/assets/images/tech/2020-09-11-the-position-of-macros-of-the-visual-studio/img_1.png)
