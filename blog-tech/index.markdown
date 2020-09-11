@@ -10,7 +10,7 @@ catagory: tech
 
 ### Article List:
 
-[The position of Macros of the Visual Studio]({% 2020-09-11-the-position-of-macros-of-the-visual-studio %}) <br/>
+[The position of Macros of the Visual Studio]({% post_url 2020-09-11-the-position-of-macros-of-the-visual-studio %}) <br/>
 
 [UML Demo]({% post_url 2020-06-28-uml-demo %}) <br/>
 
