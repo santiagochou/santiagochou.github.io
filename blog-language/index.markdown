@@ -11,6 +11,13 @@ catagory: language
 ### Language Contents:
 
 * Date: 2020-09-11
+
+> [Debugging is twice as hard as writing the code in the first place.
+Therefore, if you write the code as cleverly as possible, you are, by
+definition, not smart enough to debug it.
+- Brian W. Kernighan](https://forums.codeguru.com/showthread.php?460708-RESOLVED-PCONTEXT-undefined)
+
+* Date: 2020-09-11
   
 > [When you write an application, you create a single CWinApp-derived object. At times, you may want to get information about this object from outside the CWinApp-derived object. Or you may need access to other global "manager" objects.](https://docs.microsoft.com/en-us/cpp/mfc/reference/application-information-and-management?view=vs-2019)
 
