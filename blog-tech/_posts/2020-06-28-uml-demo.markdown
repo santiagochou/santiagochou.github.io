@@ -9,5 +9,5 @@ category: tech
 
 #### UML Demo
 * This demo shows a clase graph designed by using UML softwere UMLet and some important conponents of it.
-* Image followed by this line. ![uml-cls](/assets/images/2020-06-28-uml-demo/uml_cls.svg) 
+* Image followed by this line. ![uml-cls](/assets/images/tech/2020-06-28-uml-demo/uml_cls.svg) 
 * Code see: <script src="https://gist.github.com/santiagochou/e6135dfbe008444d54506558fc55a336.js"></script>
