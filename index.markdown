@@ -18,8 +18,8 @@ PS D:\Santiago\Music> for ($i=0;$i -lt $arr.Length; $i++) {ffplay $arr[$i] -nodi
 ## 学习：
 * Powershell - Scripting
 * https://www.tutorialspoint.com/powershell/powershell_scripting.htm
-* 学习进度：  60%
-* https://www.tutorialspoint.com/powershell/powershell_conditions.htm
+* 学习进度：  70%
+* https://www.tutorialspoint.com/powershell/powershell_hashtables.htm
 
 
 
