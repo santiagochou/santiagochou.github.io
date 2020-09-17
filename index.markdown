@@ -14,15 +14,6 @@ PS D:\Santiago\Music> $arr =@(".\Joel Santos feat Foundeur (BACHATA) - Por Que.m
 PS D:\Santiago\Music> for ($i=0;$i -lt $arr.Length; $i++) {ffplay $arr[$i] -nodisp -autoexit}
 
 
-
-## 学习：
-* Powershell - Scripting
-* https://www.tutorialspoint.com/powershell/powershell_scripting.htm
-* 学习进度：
-
-
-
-
 https://en.wikipedia.org/wiki/Operator-precedence_parser
 https://en.wikipedia.org/wiki/Operator_associativity
 
