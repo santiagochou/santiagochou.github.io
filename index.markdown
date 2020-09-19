@@ -9,7 +9,8 @@ title: "Home"
 
 ## 学习CMake
 * https://github.com/ttroy50/cmake-examples
-* 01-basic
+* 01-H
+* https://github.com/ttroy50/cmake-examples/tree/master/01-basic/H-third-party-library
 
 ## Current learning - Compiler
 * https://github.com/DoctorWkt/acwj
