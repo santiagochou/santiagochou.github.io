@@ -5,6 +5,12 @@ date:   2020-09-17 11:02:24
 category: geek
 ---
 
+### 2020-10-07
+* git使用proxy,参考(该页面)[https://gist.github.com/laispace/666dd7b27e9116faece6],该命令使用了v2ray软件建立的socket通道。使用时将端口替换成代理服务器相应的端口。v2rayN软件可以导出配置文件，从配置文件中找出相应的端口号。
+```git
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+```
+
 ### 2020-09-17 Second
 
 * 在PowerShell播放音乐的命令如下：
