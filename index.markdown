@@ -9,7 +9,8 @@ title: "Home"
 
 ## 学习CMake
 * https://github.com/ttroy50/cmake-examples
-* 01-basic
+* 04-static-analysis/clang-format/
+* [Click!](https://github.com/ttroy50/cmake-examples/tree/master/04-static-analysis/clang-format)
 
 ## Current learning - Compiler
 * https://github.com/DoctorWkt/acwj
