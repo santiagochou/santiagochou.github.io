@@ -8,9 +8,9 @@ category: geek
   * https://blog.csdn.net/leadseczgw01/article/details/103298118
   * https://blog.csdn.net/a873744779/article/details/102933229
 
-#### First step: Create start.bat under the frp directory:
+#### First step: Create `start.bat` under the frp directory:
 
-for ubuntu install the shadowsocks on computer by run commands below:
+the content of the `start.bat` are following.
 
 ```Shell
 @echo off
@@ -22,7 +22,7 @@ D:\frp_0.29.0\frpc.exe -c D:\frp_0.29.0\frpc.ini
 
 
 
-#### Second step: Move the shortcut of the start.bat to Windows 10 StartUp directory:
+#### Second step: Move the shortcut of the `start.bat` to Windows 10 StartUp directory:
 
 Create a shortcut of the `start.bat`, and move it StartUp directory as showing below.
 
