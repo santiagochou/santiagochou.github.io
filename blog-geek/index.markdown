@@ -13,4 +13,4 @@ catagory: geek
 [Google Cloud VPS Root Login Method]({% post_url 2020-06-16-google-cloud-vps-root-login-method %}) <br/>
 [Linux Accelerate the Command-line]({% post_url 2020-06-16-linux-accelerate-the-commandline %}) <br/>
 [Geek XiaBB]({% post_url 2020-09-17-geek-xiabb %}) <br/>
-[FRP Self-Starting in Windows 10]({% post_url 2020-10-16-frp-self-starting-in-windows %}
+[FRP Self-Starting in Windows 10]({% post_url 2020-10-16-frp-self-starting-in-windows %})<br/>
