@@ -4,7 +4,7 @@ title:  "FRP Self-Starting in Windows 10"
 date:   2020-10-16 15:02:24
 category: geek
 ---
-* Reference:
+#### Reference:
   * https://blog.csdn.net/leadseczgw01/article/details/103298118
   * https://blog.csdn.net/a873744779/article/details/102933229
 
@@ -24,7 +24,7 @@ D:\frp_0.29.0\frpc.exe -c D:\frp_0.29.0\frpc.ini
 
 #### Second step: Move the shortcut of the `start.bat` to Windows 10 StartUp directory:
 
-Create a shortcut of the `start.bat`, and move it StartUp directory as showing below.
+Create a shortcut of the `start.bat`, and move it to StartUp directory as showing below.
 
 ```shell
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
