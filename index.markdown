@@ -11,6 +11,7 @@ title: "Home"
 * https://github.com/ttroy50/cmake-examples
 * 04-static-analysis/clang-format/
 * [Click!](https://github.com/ttroy50/cmake-examples/tree/master/04-static-analysis/clang-format)
+* Reach to def get_git_root(git_bin): in [here!](https://github.com/ttroy50/cmake-examples/blob/master/04-static-analysis/clang-format/cmake/scripts/clang-format-check-changed.py)
 
 ## Current learning - Compiler
 * https://github.com/DoctorWkt/acwj
