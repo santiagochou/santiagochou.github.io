@@ -12,6 +12,10 @@ catagory: language
 
 * Date: 2020-09-11
 
+> [take a deeper look at](https://eow.alc.co.jp/search?q=take+a+deeper+look+at)
+
+* Date: 2020-09-11
+
 > [Debugging is twice as hard as writing the code in the first place.
 Therefore, if you write the code as cleverly as possible, you are, by
 definition, not smart enough to debug it. - Brian W. Kernighan](https://forums.codeguru.com/showthread.php?460708-RESOLVED-PCONTEXT-undefined)
