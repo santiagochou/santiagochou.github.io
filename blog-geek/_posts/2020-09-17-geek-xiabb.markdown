@@ -14,9 +14,9 @@ reg query HKLM\SOFTWARE\Classes /s /f whatever.dll
 if errorlevel 1 goto DLL_MISSING
 ```
 
-If with errorlevel sent control to the label whenver reg query found nothing. You may need to change the part of the registry where you search (in my case HKLM'..., the more specific path the faster, otherwise it takes really long).
+* If with errorlevel sent control to the label whenver reg query found nothing. You may need to change the part of the registry where you search (in my case HKLM'..., the more specific path the faster, otherwise it takes really long).
 
-The output can be processed if necessary, GUID for the entry can be obtained, but that is out of scope of reg query command.
+* The output can be processed if necessary, GUID for the entry can be obtained, but that is out of scope of reg query command.
 
 ### 2020-10-07
 
