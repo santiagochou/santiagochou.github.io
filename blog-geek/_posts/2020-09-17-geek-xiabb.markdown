@@ -7,7 +7,7 @@ category: geek
 
 ### 2020-11-18
 
-* I needed to check whether a DLL with particular name is registered and I used this command in my BAT: (ref)[https://serverfault.com/questions/576831/how-do-i-know-if-a-dll-is-registered]
+* I needed to check whether a DLL with particular name is registered and I used this command in my BAT: [ref](https://serverfault.com/questions/576831/how-do-i-know-if-a-dll-is-registered)
 
 ``` powershell
 reg query HKLM\SOFTWARE\Classes /s /f whatever.dll
@@ -20,7 +20,8 @@ if errorlevel 1 goto DLL_MISSING
 
 ### 2020-10-07
 
-* git使用proxy,参考(该页面)[https://gist.github.com/laispace/666dd7b27e9116faece6],该命令使用了v2ray软件建立的socket通道。使用时将端口替换成代理服务器相应的端口。v2rayN软件可以导出配置文件，从配置文件中找出相应的端口号。
+* git使用proxy,参考[该页面](https://gist.github.com/laispace/666dd7b27e9116faece6),该命令使用了v2ray软件建立的socket通道。使用时将端口替换成代理服务器相应的端口。v2rayN软件可以导出配置文件，从配置文件中找出相应的端口号。
+
 ```git
 git config --global http.proxy 'socks5://127.0.0.1:1080'
 ```
