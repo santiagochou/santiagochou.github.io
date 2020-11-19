@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-11-19
+
+> **aforementioned** : To understand this expression you need to read the Add function in the aforementioned Excel reference. 
+
 * Date: 2020-11-18
 
 > [libxlsxwriter stands out as a gem](https://stackoverflow.com/questions/44980928/how-to-interface-c-and-excel-output-from-c-program-to-an-excel-spreadsheet) : I would highly (as someone who has used the library extensively, and submitted patches to multiple versions of his Excel libraries) recommend xlsxwriter. It's intuitive, well-documented, and he provides similar APIs for numerous languages, with no usage restrictions. Especially in C++, libxlsxwriter stands out as a gem.
