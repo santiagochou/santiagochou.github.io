@@ -10,9 +10,26 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-11-2=30
+
+> **intend** : I intend to analyze the sexism in such texts.
+> **to and from** : PCIe slots come in dierent physical congurations: x1, x4, x8, x16, x32. The number after thex tells you how many lanes (how data travels to and from the PCIe card) that PCIe slot has.
+> **backwards compatible** : The ocial PCIe 5.0 standard came out in May 2019. It will bring 128 GBps of throughput. Thespecication is backwards compatible with previous PCIe generations and also includes newfeatures, including electrical changes to improve signal integrity and backward-compatibleCEM connectors for add-in cards. 
+
+* Date: 2020-11-20
+
+> **evaluate** : to judge or calculate the quality, importance, amount, or value of something.
+
+> **afterwards** : his code selects B2, puts a new string there, then moves that string back to A1 afterwards clearing out B2.
+
 * Date: 2020-11-19
 
-> **aforementioned** : To understand this expression you need to read the Add function in the aforementioned Excel reference. 
+> **aforementioned** : To understand this expression you need to read the Add function in the `aforementioned` Excel reference. 
+
+> **investigating** : So, by `investigating` the different objects definitions we are able to understand this code Worksheets.Add().Name = "StackOveflow".
+
+> **interact** : Now let's be more formal, Excel contains several Objects. These Objects may be composed of one or several collection(s) of Excel objects of the same class. It is the case for WorkSheets which is a collection of Worksheet object. Each Object has some properties and methods that the programmer can `interact` with.
+
 
 * Date: 2020-11-18
 
