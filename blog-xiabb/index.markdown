@@ -10,6 +10,10 @@ catagory: xiabb
 
 ### Xia BB Contents:
 
+* Date: 2020-12-07
+
+> 占卦毋论吉凶，但启示实可借鉴。
+
 * Date: 2020-12-04
 
 > 学习：学而时习之。 
