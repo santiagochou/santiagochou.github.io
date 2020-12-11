@@ -12,7 +12,7 @@ catagory: language
 
 * Date: 2020-12-11
 
-> **saw** : a tool or device for cutting, typically **a thin blade of metal** with a series of sharp teeth.
+> **saw** : a tool or device for cutting, typically <span style="color:green">*a thin blade of metal*</span> with a series of sharp teeth.
 
 * Date: 2020-11-23
 
