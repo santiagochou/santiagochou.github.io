@@ -10,7 +10,11 @@ catagory: language
 
 ### Language Contents:
 
-* Date: 2020-11-2=30
+* Date: 2020-12-11
+
+> **saw** : a tool or device for cutting, typically **a thin blade of metal** with a series of sharp teeth.
+
+* Date: 2020-11-23
 
 > **intend** : I intend to analyze the sexism in such texts.
 > **to and from** : PCIe slots come in dierent physical congurations: x1, x4, x8, x16, x32. The number after thex tells you how many lanes (how data travels to and from the PCIe card) that PCIe slot has.
