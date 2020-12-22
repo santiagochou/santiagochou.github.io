@@ -8,8 +8,8 @@ title: "Home"
 ---
 
 # Kan Board
-[111.231.195.92/kanboard](http://111.231.195.92/kanboard/)
-[code platform](http://81.68.166.43/#/home/)
+* [111.231.195.92/kanboard](http://111.231.195.92/kanboard/)
+* [code platform](http://81.68.166.43/#/home/)
 
 ## 学习CMake
 * https://github.com/ttroy50/cmake-examples
