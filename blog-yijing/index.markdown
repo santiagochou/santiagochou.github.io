@@ -10,7 +10,7 @@ catagory: yijing
 
 ### Yijing Contents:
 
-[《高島斷易》00-说明 ]({% post_url 00-shuoming %}) <br/>
+[《高島斷易》00-说明 ]({% post_url 2020-12-24-s00-shuoming %}) <br/>
 
 [UML Demo]({% post_url 2020-06-28-uml-demo %}) <br/>
 
