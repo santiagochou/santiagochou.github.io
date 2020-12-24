@@ -10,7 +10,7 @@ catagory: yijing
 
 ### Yijing Contents:
 
-[dd ]({% post_url "00-shuoming" %}) <br/>
+[dd ]({% post_url "2020-12-24-00-shuoming" %}) <br/>
 
 [UML Demo]({% post_url 2020-06-28-uml-demo %}) <br/>
 
