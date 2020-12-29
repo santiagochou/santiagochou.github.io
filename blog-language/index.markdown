@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-12-29
+
+> 英文里面的动态造词：**flip-flop**, 中文中的静态造词和象形造词：**人字拖**。
+
 * Date: 2020-12-11
 
 > **saw** : a tool or device for cutting, typically <span style="color:green">*a thin blade of metal*</span> with a series of sharp teeth.
