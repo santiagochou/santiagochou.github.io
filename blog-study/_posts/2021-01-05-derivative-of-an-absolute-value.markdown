@@ -1,13 +1,3 @@
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-        inlineMath: [['$','$']]
-        }
-    });
-</script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
 ---
 layout: post
 title:  "Derivative of an Absolute Value"
@@ -15,8 +5,11 @@ date:   2021-01-05 18:56:24
 category: study
 ---
 
+###### Tips：
+Use “\lvert，\rvert and \vert” to present the absolute values.
+
 #### Explanation:
-absolute value function like  $ y=|x-2| $
+absolute value function like  $ y=\lvert x-2 \rvert $
 can be written like this: $y=\sqrt{(x-2)^2}$
 
 #### apply differentiation:
