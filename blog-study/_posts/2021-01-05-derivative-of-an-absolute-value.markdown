@@ -5,8 +5,7 @@ date:   2021-01-05 18:56:24
 category: study
 ---
 
-###### Tips：
-Use “\lvert，\rvert and \vert” to present the absolute value notations.
+###### Tips：Use “\lvert，\rvert and \vert” to present the absolute value notations.
 
 #### Explanation:
 absolute value function like  $ y=\lvert x-2 \rvert $ \\
