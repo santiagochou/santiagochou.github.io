@@ -42,6 +42,6 @@ Equally, $y' = \cfrac{x-2}{\lvert x-2 \rvert}$
 
 ## 一点感想：
 
-导数就表征原函数的瞬时变化率。所以其**x轴的位移与伸缩**和**y轴的位移与伸缩**并不影响其总体趋势，例如，$\cfrac{d}{dx}\{ln(2 \cdot \lvert x -1 \rvert ) \}$ 与 $\cfrac{d}{dx}\{ln(\lvert x \rvert ) \}$ 图像基本相似，而且其 $y$ 轴右侧的图像就与$\{ln(x)\}'$ 一样，其导数为 $\cfrac{1}{x}$ 。所以整体上的变化规律就与$\cfrac{1}{x}$ 一致。事实上，\\
+导数就表征原函数的瞬时变化率。所以其**x轴的位移与伸缩**和**y轴的位移与伸缩**并不影响其总体趋势，例如，$\cfrac{d}{dx}\{ln(2 \cdot \lvert x -1 \rvert ) \}$ 与 $\cfrac{d}{dx}\{ln(\lvert x \rvert ) \}$ 图像基本相似，而且其 $y$ 轴右侧的图像就与$\{ln(x)\}'$ 一样，其导数为 $\cfrac{1}{x}$ 。所以整体上的变化规律与 $\cfrac{1}{x}$ 一致。事实上，\\
 
 $\cfrac{d}{dx}\{ln(2 \cdot \lvert x -1 \rvert ) \} = \cfrac{1}{x-1}$
