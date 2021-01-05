@@ -6,7 +6,7 @@ category: study
 ---
 
 ###### Tips：
-Use “\lvert，\rvert and \vert” to present the absolute values.
+Use “\lvert，\rvert and \vert” to present the absolute value notations.
 
 #### Explanation:
 absolute value function like  $ y=\lvert x-2 \rvert $ \\
