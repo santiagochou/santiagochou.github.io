@@ -14,7 +14,9 @@ can be written like this: $y=\sqrt{(x-2)^2}$
 
 ### apply differentiation:
 
-$ y' = \cfrac{2(x-2)}{2 \sqrt{(x-2)^2}} \to power\ rule  \tag {1}$
+$$
+ y' = \cfrac{2(x-2)}{2 \sqrt{(x-2)^2}} \to power\ rule  \tag {1}
+ $$
 
 ### simplify,
 
