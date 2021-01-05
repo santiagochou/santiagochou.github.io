@@ -7,20 +7,20 @@ category: study
 
 ###### Tips：Use “\lvert，\rvert and \vert” to present the absolute value notations.
 
-#### Explanation:
+### Explanation:
 absolute value function like  $ y=\lvert x-2 \rvert $ \\
 can be written like this: $y=\sqrt{(x-2)^2}$
 
-#### apply differentiation:
+### apply differentiation:
 
 $ y' = \cfrac{2(x-2)}{2 \sqrt{(x-2)^2}} \to power\ rule  \tag {1}$
 
-#### simplify,
+### simplify,
 
 $ y' = \cfrac{x-2}{\lvert x-2 \rvert}$  where $x \neq 2 $
 so in general $ \cfrac{d}{dx}u=\cfrac{u}{\lvert u \rvert} \cdot \cfrac{du}{dx}$
 
-#### For Derivative (1)
+### For Derivative (1)
 
 For the function of  $y=\sqrt{(x-2)^2}$
 
