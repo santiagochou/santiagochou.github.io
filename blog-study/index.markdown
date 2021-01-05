@@ -13,4 +13,4 @@ catagory: study
 [Recent Learn Stuff]({% post_url 2020-06-17-recent-learn-stuff %}) <br/>
 
 ### Math List:
-[Derivative of an Absolute Value]({% post_url math/2021-01-05-derivative-of-an-absolute-value %}) <br/> 
+[Derivative of an Absolute Value]({% post_url 2021-01-05-derivative-of-an-absolute-value %}) <br/> 
