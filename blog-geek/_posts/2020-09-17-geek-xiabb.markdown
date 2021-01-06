@@ -5,6 +5,13 @@ date:   2020-09-17 11:02:24
 category: geek
 ---
 
+
+
+### 2021-01-06
+
+* 在目录里递归查找关键字： ``` Select-String (Get-ChildItem -Recurse -Include "*" | ?{$_.Name -like "*"}) -pattern "PRESCRAM"  ```
+* 在目录里递归查找文件名： ``` "Get-ChildItem -Recurse -Include *prcdata*" ```
+
 ### 2020-11-18
 
 * I needed to check whether a DLL with particular name is registered and I used this command in my BAT: [ref](https://serverfault.com/questions/576831/how-do-i-know-if-a-dll-is-registered)
