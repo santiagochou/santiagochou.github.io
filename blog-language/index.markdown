@@ -10,6 +10,11 @@ catagory: language
 
 ### Language Contents:
 
+
+* Date: 2021-01-08
+
+> **st_ck**: 其中，**_**中填写所以的元音~~都可以~~，stack 栈，stock 股票， ~~steck 牛肉（应为steak）~~， stick 树枝，stuck 粘。
+
 * Date: 2020-12-29
 
 > 英文里面的动态造词：**flip-flop**, 中文中的静态造词和象形造词：**人字拖**。
