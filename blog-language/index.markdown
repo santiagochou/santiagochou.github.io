@@ -13,7 +13,7 @@ catagory: language
 
 * Date: 2021-01-08
 
-> **st_ck**: 其中，**_**中填写所以的元音~~都可以~~，stack 栈，stock 股票， ~~steck 牛肉（应为steak）~~， stick 树枝，stuck 粘。
+> **st_ck**: 其中，**_**中填写所有的元音~~都可以~~，stack 栈，stock 股票， ~~steck 牛肉（应为steak）~~， stick 树枝，stuck 粘。
 
 * Date: 2020-12-29
 
