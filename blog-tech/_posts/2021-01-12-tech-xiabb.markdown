@@ -7,7 +7,7 @@ category: tech
 
 
 
-### 2021-01-012
+### 2021-01-12
 #### Timing Generate Tools
 * Timegen
 * WaveDrom
