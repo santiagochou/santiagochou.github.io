@@ -12,3 +12,6 @@ category: tech
 * Timegen
 * WaveDrom
 * TimingDesigner
+* Waveme
+* tikz-timing
+* TimingAnalyzer
