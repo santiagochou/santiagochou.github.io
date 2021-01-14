@@ -10,10 +10,34 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-01-14
+> split \
+> plot  \
+> plat -- a small piece of ground \
+> plan      計畫；平面圖 \
+> plane  【口】飛機   平面 \
+> plant     植物，農作物 \
+> place     地方，地點；地區；位置 \
+> plastic   可塑的，塑性的 \
+> plaster   灰泥，灰漿 \
+> platter    大淺盤 \
+> plate       盤子，盆，碟 \
+> planet    行星 \
+> paste      漿糊 \
+> plain      簡樸的；樸素的；不攙雜的 \
+> plaint     悲嘆；訴苦 \
+> explain  解釋；說明；闡明 \
+> complain  抱怨，發牢騷 \
+> plenty    豐富；充足 \
 
 * Date: 2021-01-08
 
-> **st_ck**: 其中，**_**中填写所有的元音~~都可以~~，stack 栈，stock 股票， ~~steck 牛肉（应为steak）~~， stick 树枝，stuck 粘。
+> **st_ck**: 其中，**_**中填写所有的元音~~都可以~~，\
+> stack 栈，\
+> stock 股票，\
+>  ~~steck 牛肉（应为steak）~~， \
+> stick 树枝，\
+> stuck 粘。
 
 * Date: 2020-12-29
 
