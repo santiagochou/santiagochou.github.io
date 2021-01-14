@@ -15,3 +15,7 @@ catagory: study
 ### Math List:
 
 [Derivative of an Absolute Value]({% post_url 2021-01-05-derivative-of-an-absolute-value %}) <br/>
+
+### Music List:
+
+[Music Study]({% post_url 2021-01-14-music-study %}) <br/>
