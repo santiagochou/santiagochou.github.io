@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+* Date: 2020-01-15
+
+> Fights among rival gangs **account for**(占) most murders in the city.
+
 * Date: 2020-01-14
 > split \
 > plot  \
