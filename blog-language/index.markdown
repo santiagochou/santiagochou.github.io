@@ -10,11 +10,15 @@ catagory: language
 
 ### Language Contents:
 
-* Date: 2020-01-15
+* Date: 2021-01-22
+
+> **fabrication** : the act of producing a product, especially in an industrial process
+
+* Date: 2021-01-15
 
 > Fights among rival gangs **account for**(占) most murders in the city.
 
-* Date: 2020-01-14
+* Date: 2021-01-14
 > split \
 > plot  \
 > plat -- a small piece of ground \
