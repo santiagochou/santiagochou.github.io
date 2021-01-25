@@ -7,8 +7,7 @@ layout: post
 title: "Home"
 ---
 
-# Kan Board
-* [111.231.195.92/kanboard](http://111.231.195.92/kanboard/)
+# Code Platform
 * [code platform](http://81.68.166.43/#/home/)
 
 ## 学习CMake
