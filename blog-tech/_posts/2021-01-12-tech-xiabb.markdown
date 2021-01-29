@@ -7,6 +7,41 @@ category: tech
 
 ### 2021-01-29
 
+#### callback function in C:
+
+* **callback** can define a function which accepts a sort of functions which perform a sort of actions.
+
+``` C
+/*
+* refers to https://www.geeksforgeeks.org/callbacks-in-c/
+*/
+// A simple C program to demonstrate callback 
+#include<stdio.h> 
+
+void A()
+{
+    printf("I am function A\n");
+}
+
+// callback function 
+void B(void (*ptr)())
+{
+    (*ptr) (); // callback to A 
+}
+
+int main()
+{
+    void (*ptr)() = &A;
+
+    // calling function B and passing 
+    // address of the function A as argument 
+    B(ptr);
+
+    return 0;
+}
+
+```
+
 #### C++ volatile specifier
 
 * 这个关键字是用来设定某个对象的存储位置在内存中，而不是寄存器中。因为一般的对象编译器可能会将其的拷贝放在寄存器中用以加快指令的执行速度.
