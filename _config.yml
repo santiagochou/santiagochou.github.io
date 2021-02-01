@@ -45,7 +45,7 @@ copyright: "Santiago"
 # Build settings
 # Removed minima theme as it is now a regular theme.
 #theme: minima
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-spaceship
 
