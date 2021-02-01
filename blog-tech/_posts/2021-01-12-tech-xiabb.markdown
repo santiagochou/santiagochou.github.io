@@ -1,5 +1,3 @@
-
-<script src="mermaid.full.min.js"></script>
 ---
 layout: post
 title:  "Tech XiaBB"
@@ -11,13 +9,19 @@ category: tech
 #### Operating System Kernel
 
 * Kernel is the main component of any operating system. It is a bridge between applications and hardware. Kernel provides layer of abstraction through which application can interact with hardware.
-<div class="mermaid">
+
 graph TD;
     A-->B;
     A-->C;
     B-->D;
-    C-->D;
-</div>
+
+```mermaid!
+pie title Pets adopted by volunteers
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 35
+```
+
 * Kernel is the part of the operating system that loads first, and it remains in physical memory. The kernel's primary function is to manage the computer's hardware and resources and allow other programs to run and use these resources. To know more about kernel, visit [this link](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
 ### 2021-01-29
