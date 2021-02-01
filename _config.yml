@@ -47,6 +47,7 @@ copyright: "Santiago"
 #theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-spaceship
 
 ## Santiago add at Jan 5, 2021
 markdown: kramdown
