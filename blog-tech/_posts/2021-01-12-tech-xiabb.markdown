@@ -5,8 +5,22 @@ date:   2021-01-12 11:02:24
 category: tech
 ---
 
-### 2021-01-29
+### 2021-02-01
+#### Operating System Kernel
 
+* Kernel is the main component of any operating system. It is a bridge between applications and hardware. Kernel provides layer of abstraction through which application can interact with hardware.
+
+```mermaid
+graph
+A[Application] -->B(Kernel)
+	B --> C[CPU]
+    B --> D[Memory]
+    B --> E[Devices]
+```
+
+* Kernel is the part of the operating system that loads first, and it remains in physical memory. The kernel's primary function is to manage the computer's hardware and resources and allow other programs to run and use these resources. To know more about kernel, visit [this link](https://en.wikipedia.org/wiki/Kernel_(operating_system))
+
+### 2021-01-29
 #### callback function in C:
 
 * **callback** can define a function which accepts a sort of functions which perform a sort of actions.
