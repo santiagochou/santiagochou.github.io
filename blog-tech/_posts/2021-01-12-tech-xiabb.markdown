@@ -10,7 +10,7 @@ category: tech
 
 * Kernel is the main component of any operating system. It is a bridge between applications and hardware. Kernel provides layer of abstraction through which application can interact with hardware. 
 
-![uml-cls](/assets/images/tech/2020-06-28-tech-xiabb/2021-02-01.svg) 
+* See figure ![Operating System Kernel](/assets/images/tech/2021-01-12-tech-xiabb/2021-02-01.svg) 
 
 * Kernel is the part of the operating system that loads first, and it remains in physical memory. The kernel's primary function is to manage the computer's hardware and resources and allow other programs to run and use these resources. To know more about kernel, visit [this link](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
