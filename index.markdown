@@ -7,6 +7,9 @@ layout: post
 title: "Home"
 ---
 
+# Important Websites:
+* [codeproject](https://www.codeproject.com/Members/santiago-chou)
+
 # Code Platform
 * [code platform](http://81.68.166.43/#/home/)
 
