@@ -19,6 +19,7 @@ title: "Home"
 * [daniweb](https://www.daniweb.com/)
 * [bytes](https://bytes.com/)
 * [dzone](https://dzone.com/)
+* [quora](https://www.quora.com/)
 
 # Code Platform
 * [code platform](http://81.68.166.43/#/home/)
