@@ -1,0 +1,6 @@
+digraph demo{
+    Applications->Kernel[dir=forward];
+    Kernel->CPU[dir=forward];
+    Kernel->Memory[dir=forward];
+    Kernel->Devices[dir=forward];
+}
