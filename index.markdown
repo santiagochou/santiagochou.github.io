@@ -9,6 +9,16 @@ title: "Home"
 
 # Important Websites:
 * [codeproject](https://www.codeproject.com/Members/santiago-chou)
+* [MSDN-samples](https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples)
+* [cloudblogs.microsoft.com/opensource/](https://cloudblogs.microsoft.com/opensource/)
+* [stackoverflow](https://stackoverflow.com/users/14308742/xf-zhou)
+* [Hacker News](https://news.ycombinator.com/)
+* [reddit programming](https://www.reddit.com/r/programming/)
+* [social.msdn.microsoft.com](https://social.msdn.microsoft.com/Forums/zh-CN/home)
+* [indiehackers.com](https://www.indiehackers.com/start)
+* [daniweb](https://www.daniweb.com/)
+* [bytes](https://bytes.com/)
+* [dzone](https://dzone.com/)
 
 # Code Platform
 * [code platform](http://81.68.166.43/#/home/)
