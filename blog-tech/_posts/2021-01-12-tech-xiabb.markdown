@@ -5,6 +5,10 @@ date:   2021-01-12 11:02:24
 category: tech
 ---
 
+### 2021-02-08
+#### Macros in VS Studio
+* Macros in VStudio is the VS Studio Environment Variables. It can be found in the all of the page in the Property of the project.
+
 ### 2021-02-01
 #### Operating System Kernel
 
