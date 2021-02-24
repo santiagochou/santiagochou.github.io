@@ -9,6 +9,7 @@ category: tech
 ### 2021-02-24
 
 * gRPC+ProtoBuf -->实现Client-Server通信，而不用写基础的Client端和Server端的服务代码，直接关心其基础之上的业务逻辑。
+* Bazel & Buck 是一个能够替代CMake的编译框架。
 
 ### 2021-02-08
 #### Macros in VS Studio
