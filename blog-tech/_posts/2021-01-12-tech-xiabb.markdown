@@ -5,8 +5,14 @@ date:   2021-01-12 11:02:24
 category: tech
 ---
 
+
+### 2021-02-24
+
+* gRPC+ProtoBuf -->实现Client-Server通信，而不用写基础的Client端和Server端的服务代码，直接关心其基础之上的业务逻辑。
+
 ### 2021-02-08
 #### Macros in VS Studio
+
 * Macros in VStudio is the VS Studio Environment Variables. It can be found in the all of the page in the Property of the project.
 
 ### 2021-02-01
