@@ -7,6 +7,9 @@ layout: post
 title: "Home"
 ---
 
+# Important:
+* All my personal files should be restored at the /scs directory in linux OS.
+
 # Important Websites:
 * [codeproject](https://www.codeproject.com/Members/santiago-chou)
 * [MSDN-samples](https://docs.microsoft.com/en-us/samples/browse/?redirectedfrom=MSDN-samples)
