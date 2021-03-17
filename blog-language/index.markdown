@@ -11,6 +11,11 @@ catagory: language
 ### Language Contents:
 
 
+#### Date:2021-03-17
+
+* **To carry out the exchange(为了进行交换，or 为了实现交换，)**, `UpdateData` sets up a `CDataExchange` object and calls your dialog class's override of CDialog's `DoDataExchange` member function. 
+
+
 #### Date: 2021-03-04
 
 * Dynamic variable are useful **in circumstances(在...情况下)** where for example, you don't know the number of different variables your program might want to manipulate when you are writing it.  **In such circumstance**, you insert code into your program which creates (and destroys) variables on **an as-needed basis(视所需而定)**.  This often causes programmer great difficulty and it is **fair(合理的)** to say that it has been one of the reasons why people dislike C/C++ programming.  Programs create dynamic program variables by asking the operating system to **set aside(预留)** a portion of memory for their exclusive use. If the memory is available, the operating system marks this block of memory as being "in-use" and owned by the program concerned. Any other program which either **accidentally or maliciously (有意或无意的)** attempts to read or write to this block of memory without suitable **security clearance(安全检查)** will be prevented from doing so by the operating system and the computer processor's built-in (hardware) memory protection sub-system. 
