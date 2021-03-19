@@ -11,6 +11,10 @@ catagory: language
 ### Language Contents:
 
 
+#### Date:2021-03-19
+
+* **It turns out(事实证明)** that there is built-in support for viewing details of MSMQ baked into the MMC snap-in, though it’s not immediately obvious where to find it.
+
 #### Date:2021-03-17
 
 * **To carry out the exchange(为了进行交换，or 为了实现交换，)**, `UpdateData` sets up a `CDataExchange` object and calls your dialog class's override of CDialog's `DoDataExchange` member function. 
