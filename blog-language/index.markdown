@@ -10,6 +10,9 @@ catagory: language
 
 ### Language Contents:
 
+#### Date:2021-03-25
+
+* This automatic inheritance, **along with(以及)** the inheritance information in each ACE, determines how security restrictions are passed down the directory hierarchy.
 
 #### Date:2021-03-19
 
