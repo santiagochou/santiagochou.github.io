@@ -10,6 +10,9 @@ catagory: language
 
 ### Language Contents:
 
+#### Date: 2021-03-31
+
+* A friend in the University's Computer Science Department got me interested in programming, and I have been hooked **ever since(从那以后)**.
 
 #### Date: 2021-03-04
 
