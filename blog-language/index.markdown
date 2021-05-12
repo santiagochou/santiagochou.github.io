@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+#### Date: 2021-05-12
+
+* cutting edge(最前沿的): Find out how FormFactor composite-metal MEMS technology is enabling a range of new ICs at the **cutting edge** of electronics innovations.
+
 #### Date: 2021-04-21
 
 * Ellipse 椭圆 Elapse 流逝
