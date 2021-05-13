@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+#### Date: 2021-05-14
+
+* 英文中的有些表达比中文更好用，比如首行空两格等，而英文中则有专门的动词去表达，比如**Indent** the first line of the XXX element with 20px.
+
 #### Date: 2021-05-12
 
 * cutting edge(最前沿的): Find out how FormFactor composite-metal MEMS technology is enabling a range of new ICs at the **cutting edge** of electronics innovations.
