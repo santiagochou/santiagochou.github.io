@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+#### Date: 2021-05-31
+
+* Or are we stuck forever to develop on Visual Studio 2015? ,其中，**stuck** 表示坚持，其作为一个动词，但并不能表示完整语义，所以加一个"to develop" 来使语义完整。
+
 #### Date: 2021-05-14
 
 * 英文中的有些表达比中文更好用，比如首行空两格等，而英文中则有专门的动词去表达，比如**Indent** the first line of the XXX element with 20px.
