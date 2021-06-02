@@ -10,6 +10,10 @@ catagory: language
 
 ### Language Contents:
 
+#### Date: 2021-06-02
+
+* We might be able to take them away. -- 我们或许可以把它们带出来
+
 #### Date: 2021-05-31
 
 * Or are we stuck forever to develop on Visual Studio 2015? ,其中，**stuck** 表示坚持，其作为一个动词，但并不能表示完整语义，所以加一个"to develop" 来使语义完整。
