@@ -10,6 +10,7 @@ catagory: language
 
 ### Language Contents:
 
+<<<<<<< HEAD
 #### Date: 2021-06-02
 
 * We might be able to take them away. -- 我们或许可以把它们带出来
@@ -33,6 +34,20 @@ catagory: language
 #### Date: 2021-03-31
 
 * A friend in the University's Computer Science Department got me interested in programming, and I have been hooked **ever since(从那以后)**.
+=======
+#### Date:2021-03-25
+
+* This automatic inheritance, **along with(以及)** the inheritance information in each ACE, determines how security restrictions are passed down the directory hierarchy.
+
+#### Date:2021-03-19
+
+* **It turns out(事实证明)** that there is built-in support for viewing details of MSMQ baked into the MMC snap-in, though it’s not immediately obvious where to find it.
+
+#### Date:2021-03-17
+
+* **To carry out the exchange(为了进行交换，or 为了实现交换，)**, `UpdateData` sets up a `CDataExchange` object and calls your dialog class's override of CDialog's `DoDataExchange` member function. 
+
+>>>>>>> fa3866314a1901be2a359f5c6abd302e152fd488
 
 #### Date: 2021-03-04
 
