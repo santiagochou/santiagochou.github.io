@@ -14,3 +14,4 @@ catagory: geek
 [Linux Accelerate the Command-line]({% post_url 2020-06-16-linux-accelerate-the-commandline %}) <br/>
 [Geek XiaBB]({% post_url 2020-09-17-geek-xiabb %}) <br/>
 [FRP Self-Starting in Windows 10]({% post_url 2020-10-16-frp-self-starting-in-windows %})<br/>
+[Important Softwares]({% post_url 2021-07-13-important-softwares %}) <br/>
