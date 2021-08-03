@@ -10,7 +10,6 @@ catagory: xiabb
 
 ### Xia BB Contents:
 
-
 #### Date: 2021-08-03
 
 * 要善于运用Checklist来实现学习的线性与进度把控。
