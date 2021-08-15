@@ -7,6 +7,10 @@ layout: post
 title: "Home"
 ---
 
+# Great Study Resources:
+Major -> Source Website -> Channel Name -> Reference Link
+CS -> youtube -> Back To Back SWE -> https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA
+
 # Important:
 * All my personal files should be restored at the /scs directory in linux OS.
 
