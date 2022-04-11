@@ -49,3 +49,24 @@ CS -> youtube -> Back To Back SWE -> https://www.youtube.com/channel/UCmJz2DV1a3
 ### Others
 
 * <iframe src="https://www.codeproject.com/members/flair/15062217" height="200" width="250" scrolling="no" frameborder="no"></iframe>
+
+ <!-- Gitalk comment start  -->
+
+ <!-- Link Gitalk  -->
+ <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+ <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+ <div id="gitalk-container"></div>     <script type="text/javascript">
+     var gitalk = new Gitalk({
+
+     // Gitalk parameters
+         clientID: '7bf512cb411be5fc7ab1', //customize
+         clientSecret: '91cbdb3c5cf8a9a69dcf9fc80b5ac979e36d17dc', //customize
+         repo: 'santiagochou.github.io', //customize
+         owner: 'santiagochou', //customize
+         admin: ['santiagochou'], //customize
+         id: window.location.pathname, // leave this line as it is
+        
+     });
+     gitalk.render('gitalk-container');
+ </script> 
+ <!-- Gitalk end -->
