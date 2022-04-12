@@ -26,23 +26,4 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
- <!-- Gitalk comment start  -->
 
- <!-- Link Gitalk  -->
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
- <div id="gitalk-container"></div>     <script type="text/javascript">
-     var gitalk = new Gitalk({
-
-     // Gitalk parameters
-         clientID: '24dc804589780be4cb76', //customize
-         clientSecret: 'fbe1da1f91a67c1599887abf21f09161e8772e55', //customize
-         repo: 'santiagochou.github.io', //customize
-         owner: 'santiagochou', //customize
-         admin: ['santiagochou'], //customize
-         id: window.location.pathname, // leave this line as it is
-         distractionFreeMode: false  // Facebook-like distraction free mode
-     });
-     gitalk.render('gitalk-container');
- </script> 
- <!-- Gitalk end -->
