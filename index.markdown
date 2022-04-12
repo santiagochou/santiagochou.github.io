@@ -4,7 +4,5 @@
 
 # layout: home
 layout: post
-title: "Home"
+title: "小毛巾 的 留言板"
 ---
-
-# 小毛巾 的 留言板
