@@ -4,5 +4,6 @@
 
 # layout: home
 layout: post
-title: "小毛巾 的 留言板"
+title: "home"
 ---
+<div align='center'><font size='70'>留言板</font></div>
