@@ -4,7 +4,7 @@
 
 # layout: home-language
 layout: post
-title: "Language"
+title: "Lang"
 catagory: language
 ---
 
