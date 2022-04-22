@@ -4,7 +4,7 @@
 
 # layout: home-yijing
 layout: post
-title: "Yijing"
+title: "Yi"
 catagory: yijing
 ---
 
