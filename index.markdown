@@ -6,4 +6,4 @@
 layout: post
 title: "home"
 ---
-<div align='center'><font size='70'>留言板</font></div>
+<div align='center'><font size='70'>message board</font></div>
