@@ -10,7 +10,6 @@ catagory: study
 
 ### LeetCode Practice :
 
-2022-09-04-Leetcode-Problem-Solution-Linked-List.markdown
 [LeetCode Problem Solution - Linked List]({% post_url 2022-09-04-Leetcode-Problem-Solution-Linked-List %})
 
 
